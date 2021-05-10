@@ -1,0 +1,7 @@
+testing hash table
+True
+True
+False
+False
+True
+False

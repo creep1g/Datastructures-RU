@@ -1,0 +1,20 @@
+
+TINY TREE
+VALUE SUM: 30
+
+SMALL TREE
+VALUE SUM: 49
+
+MEDIUM TREE
+VALUE SUM: 290
+
+CHECKING SERIES
+[4, 2, 7, 26]: True
+[4, 2, 7, 26, 7]: False
+[4, 2, 7]: False
+[2, 7, 26]: False
+[4, 7, 12]: True
+[4, 5, 23]: True
+[4, 2, 1]: True
+[4, 7, 13]: True
+[4, 2, 7, 37, 9]: True

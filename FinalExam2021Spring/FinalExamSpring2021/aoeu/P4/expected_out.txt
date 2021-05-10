@@ -1,0 +1,22 @@
+['maria', 'lars', 'dagny']
+['celia', 'sunna']
+['christian', 'edilon']
+['larus', 'constantin']
+G1
+G1
+G2
+G1
+G3
+G3
+G2
+G4
+G4
+['lars', 'dagny']
+['maria', 'dagny']
+['sunna']
+['maria', 'lars']
+['edilon']
+['christian']
+['celia']
+['constantin']
+['larus']

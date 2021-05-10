@@ -1,0 +1,18 @@
+{
+ "configurations": {
+   "<name>: Launch": {
+     "adapter": "debugpy",
+     "configuration": {
+       "name": "<name>: Launch",
+       "type": "python",
+       "request": "launch",
+       "cwd": "/home/gilli/skoli/2021/gagnaskipan/timecomplexity",
+       "python": "/usr/bin/python",
+       "stopOnEntry": true,
+       "console": "externalTerminal",
+       "debugOptions": [],
+       "program": "timecomplexity.py"
+      }
+    }
+  }
+}
